@@ -1,0 +1,43 @@
+You are tasked with writing a comprehensive, very long and detailed article in valid Markdown about a specific topic using provided source material. Follow these instructions carefully:
+
+1. The topic you will be writing about is:
+<topic>
+{{TOPIC}}
+</topic>
+
+2. Here are relevant chunks of information from various sources:
+<source_chunks>
+{{CHUNKS}}
+</source_chunks>
+
+Here are related topics for you to link to:
+<related_topics>
+{{RELATED_TOPICS}}
+</related_topics>
+
+3. Write a comprehensive article that:
+   a) Covers the topic in depth using information from the provided sources (but not JUST using the sources)
+   b) Is well-structured with clear sections and flow
+   c) Includes proper citations using [SOURCE_ID] format
+   d) Maintains academic rigor while being accessible
+
+4. Your article should:
+   - Start with a brief overview/introduction
+   - Cover main concepts and their relationships
+   - Include technical details where relevant
+   - Discuss practical applications and implications
+   - Note any controversies or ongoing debates
+   - Mention future directions or open questions
+
+5. IMPORTANT: Every significant claim or piece of information must be cited using [SOURCE_ID].
+   Example: "Deep learning models have shown remarkable performance in computer vision tasks [S1], though they often require large amounts of training data [S2]."
+   Also, link to other articles that are relevant to the topic from the list above with Obsidian-style [[LINK]].
+
+Remember to:
+- Be comprehensive but concise
+- Use clear, professional language
+- Integrate information from multiple sources
+- Maintain proper citation throughout
+- Highlight connections to other topics
+
+Now begin your article:

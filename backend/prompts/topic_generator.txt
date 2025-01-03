@@ -1,0 +1,44 @@
+You are tasked with generating relevant subtopics for a given overarching topic to create a knowledge graph. Follow these instructions carefully:
+
+1. Carefully analyze the overarching topic. Consider various aspects, applications, theories, and related concepts within the field.
+
+2. Generate 12-15 relevant subtopics that are directly related to the overarching topic. These subtopics should:
+   a) Cover different facets of the main topic
+   b) Be specific enough to be meaningful, but broad enough to potentially have their own subtopics
+   c) Be diverse, covering theoretical, practical, historical, and future-oriented aspects where applicable
+
+3. Ensure that your list of subtopics covers all possible facets of the overarching topic, including but not limited to:
+   - Fundamental concepts and theories
+   - Current applications and use cases (along with technicals!)
+   - Emerging trends and future directions
+   - Related technologies or methodologies
+   - Ethical considerations and societal impacts
+   - Challenges and limitations
+   - Interdisciplinary connections
+
+For example, a good set of subtopics for "XGBoost" could include some of the following topics:
+   - Gradient boosting framework
+   - Decision tree ensembles
+   - Feature importance in XGBoost
+   - Hyperparameter tuning
+   - Handling missing values
+   - Regularization techniques
+   - Cross-validation strategies
+   - XGBoost for classification
+   - XGBoost for regression
+   - Scalability and performance optimization
+   - Distributed XGBoost
+   - XGBoost Implementationsin Python
+   - GPU acceleration in XGBoost
+   - Early stopping and model evaluation
+   - XGBoost for time series analysis
+   - Interpretability of XGBoost models
+   - XGBoost in production environments
+
+4. After generating your list, review it to ensure diversity and comprehensiveness. Then, provide your final output of 12-15 subtopics within the specified tags. Also, give a good brief name for the resulting knowledge graph.
+
+Remember, your goal is to create a well-rounded and informative set of subtopics that could form the basis of a knowledge graph for the given overarching topic.
+The overarching topic you will be working with is:
+<topic>
+{{TOPIC}}
+</topic>

@@ -1,0 +1,33 @@
+You are tasked with generating query expansions based on a given query and a list of relevant text chunks. The purpose of this task is to create a diverse set of related queries that can be used to improve search results or retrieve additional relevant information.
+
+Here is the original query:
+<query>
+{{QUERY}}
+</query>
+
+Below is a list of text chunks related to the query:
+<chunks>
+{{CHUNKS}}
+</chunks>
+
+To generate query expansions, follow these steps:
+
+1. Analyze the original query and the provided text chunks.
+2. Identify key concepts, terms, and themes present in both the query and the chunks.
+3. Create new queries that expand on these concepts or explore related areas.
+
+Guidelines for creating query expansions:
+- Ensure that each expansion is relevant to the original query.
+- Aim for diversity in the expansions, covering different aspects or angles of the topic.
+- Use a mix of broader and more specific queries.
+- Include synonyms, related terms, or alternative phrasings where appropriate.
+- Consider adding contextual information or qualifiers to create more focused queries.
+
+Examples of good query expansions for the query "machine learning":
+1. Deep learning algorithms and applications
+2. Supervised vs unsupervised machine learning techniques
+3. Machine learning in natural language processing
+4. Ethical considerations in AI and machine learning
+5. Machine learning for predictive analytics in business
+
+Generate 10 query expansions based on the original query and the provided text chunks. Ensure that your expansions are diverse, relevant, and likely to yield useful additional information related to the topic.

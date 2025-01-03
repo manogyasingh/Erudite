@@ -1,0 +1,79 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+wheels/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+Cache/
+data/
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# MyPy cache
+.mypy_cache/
+
+# Temporary files
+*.tmp
+*.log
+*.DS_Store
+*.swp
+.sass-cache/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Obsidian Vault (if it's generated or contains sensitive data)
+obsidian_vault/
+
+# Test artifacts
+test_results/
+reports/
+
+# Logs
+*.log
+
+# Local configuration files
+local_settings.py
+
+# MacOS files
+.DS_Store
+
+# Python egg files
+*.egg
+
+# Cython debug symbols
+cython_debug/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated files
+generated/
+
